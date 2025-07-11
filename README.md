@@ -35,5 +35,5 @@ curl -sS https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh | b
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
-
+pull
 
